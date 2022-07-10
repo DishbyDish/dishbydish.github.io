@@ -1,13 +1,13 @@
 ---
 layout: page
-excerpt: "About Me..."
-menutitle: Home
+excerpt: "About the Project..."
+menutitle: The Project
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+DishbyDish UAE is an intellectual experiment that aims at furthering our understanding about the MENA landscape through the lens of culinary practices. Undertaken by the Citizen Researcher Group at New York University, Abu Dhabi, the project encourages collaboration in research between academia and the general public, faculty and students.We’re transcribing restaurant menus, dish by dish, from local and regional restaurants, so that we can better understand the diversity of cuisines on offer in the region. It’s a big job so we need your help! 
 
-## Current Interests and Projects:
+## Ways You Can Contribute:
 
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
