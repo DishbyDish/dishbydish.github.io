@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Getting Started
-excerpt: "Getting Started in Dish by Dish"
+excerpt: "Getting Started with Dish by Dish"
 modified: 7/01/2022, 9:00:24
 tags: [concept]
 comments: false
 category: blog
 ---
 
-DishbyDish UAE is an intellectual experiment that aims at furthering our understanding about the MENA landscape through the lens of culinary practices. Undertaken by the Citizen Researcher Group at New York University, Abu Dhabi, the project encourages collaboration in research between academia and the general public, faculty and students.We’re transcribing restaurant menus, dish by dish, from local and regional restaurants, so that we can better understand the diversity of cuisines on offer in the region. It’s a big job so we need your help!
+DishbyDish UAE is an intellectual experiment that aims at furthering our understanding about the MENA landscape through the lens of culinary practices. Undertaken by the Citizen Researcher Group at New York University, Abu Dhabi, the project encourages collaboration in research between academia and the general public, faculty and students. We’re transcribing restaurant menus--dish by dish--from local and regional restaurants, so that we can better understand the diversity of cuisines on offer in the region. It’s a big job so we need your help!
 
 ## The inspiration for the project
 A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
