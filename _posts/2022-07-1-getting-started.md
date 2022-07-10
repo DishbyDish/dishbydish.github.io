@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started
 excerpt: "Getting Started with Dish by Dish"
-modified: 7/01/2022, 9:00:24
+modified: 1/7/2022, 9:00:24
 tags: [concept]
 comments: false
 category: blog

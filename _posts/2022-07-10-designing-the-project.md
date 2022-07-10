@@ -2,7 +2,7 @@
 layout: post
 title: Designing the Project
 excerpt: "Building on past examples"
-modified: 7/10/2022, 9:00:24
+modified: 10/7/2022, 9:00:24
 tags: [concept]
 comments: false
 category: blog
