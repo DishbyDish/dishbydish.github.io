@@ -1,20 +1,20 @@
 ---
 layout: post
-title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
-comments: true
+title: Getting Started
+excerpt: "Getting Started in Dish by Dish"
+modified: 7/01/2022, 9:00:24
+tags: [concept]
+comments: false
 category: blog
 ---
 
-This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
+DishbyDish UAE is an intellectual experiment that aims at furthering our understanding about the MENA landscape through the lens of culinary practices. Undertaken by the Citizen Researcher Group at New York University, Abu Dhabi, the project encourages collaboration in research between academia and the general public, faculty and students.We’re transcribing restaurant menus, dish by dish, from local and regional restaurants, so that we can better understand the diversity of cuisines on offer in the region. It’s a big job so we need your help!
 
-## What is a static website generator?
+## The inspiration for the project
 A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
 
-## Why should I use a static website?
+## Collecting the data
 A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
 
-## How is this template different?
+## Transcribing the Menus
 This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
