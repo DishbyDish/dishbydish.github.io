@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Getting Started
-excerpt: "Designing the Project"
+title: Designing the Project
+excerpt: "Building on past examples"
 modified: 7/10/2022, 9:00:24
 tags: [concept]
 comments: false
