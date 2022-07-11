@@ -10,7 +10,7 @@ We have prepared a series of tutorials about how you can be a part of the projec
 #### Sample video and written tutorials:
 
 - Getting your account at FromThePage
-- [Get Started with FromThePage](hhttps://www.youtube.com/watch?v=UcNXSY0q9uE)
+- [Get Started with FromThePage](https://www.youtube.com/watch?v=UcNXSY0q9uE)
 - How to transcribe in FromThePage (forthcoming)
 - How to flag a problem (forthcoming)
 - How to create metadata for your menus (forthcoming)
