@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Dish by Dish
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "DishbyDish"
+  name   : "Dish by Dish"
   avatar : "/assets/images/DbyD_logo.jpg"
-  bio    : "DishbyDish is a community project about food in the Arabian Gulf region."
+  bio    : "Dish by Dish is a community project about food in the Arabian Gulf region."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -73,19 +73,19 @@ author:
       url: "https://github.com/dishbydish"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/dishbydishUAE"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/dishbydishUAE"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dishbydish"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/dishbydishUAE"
 
 defaults:
   # _posts
