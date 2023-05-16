@@ -4,8 +4,6 @@ excerpt: "Dish by Dish is a community project about food."
 sitemap: false
 permalink: /project
 ---
-
-Dish By Dish
     
 Countries like the United Arab Emirates (UAE) are major international hubs with residents hailing from all over the world. Of course, in them we find the traditional foods of Eastern Arabia (known as "Khaleeji" cooking), but there are also many different global food cultures and interesting fusions on offer. 
 
