@@ -1,8 +1,6 @@
 ---
 permalink: /project/
 title: "The Project"
-classes: 
-	- landing
 ---
 
 Dish By Dish
