@@ -1,6 +1,8 @@
 ---
-permalink: /project/
 title: "The Project"
+excerpt: "Dish by Dish is a community project about food."
+sitemap: false
+permalink: /project
 ---
 
 Dish By Dish
