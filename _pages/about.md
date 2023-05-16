@@ -1,6 +1,8 @@
 ---
 permalink: /project/
 title: "The Project"
+classes: 
+	- landing
 ---
 
 Dish By Dish
@@ -13,4 +15,4 @@ In the ever-growing collection of menus you will find many languages; they typic
 
 Dish by Dish is a project of [Citizen Researcher](https://citizenresearcher.hosting.nyu.edu/) in the Office of Research Outreach at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/). 
 
-Want to get involved? Make a free [account]((https://fromthepage.com/signup)) to become a transcriber and help us transcribe!
+> Want to get involved? Make a free [account]((https://fromthepage.com/signup)) to become a transcriber and help us transcribe!
