@@ -36,6 +36,6 @@ In order to get this project going we have:
 - organized our files in Workspace and Drive, which has been our institution's persistent data management system
 - used scanners at our institution for menus which arrived to us undigitized, although in some cases we have received digital image files which needed to be manipulated
 - employed paid student research assistants for work on the project, their contribution is acknowledged on the [Team](https://dishbydish.github.io/team/) tab of this site.  
-- created a Github static site using the Minimal Mistakes theme
+- created a Github static site using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme
 
 The use of a static site in Github serves the purpose of sharing datasets derived from the menus in the same place where we disseminate other information about the project.
