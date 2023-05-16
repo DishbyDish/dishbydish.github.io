@@ -2,9 +2,8 @@ main:
   - title: "The Project"
     url: /project/
   - title: "Blog"
-    url: /tags/
+    url: /posts/
   - title: "Participate"
     url: /participate/
   - title: "Team"
     url: /team/
-    

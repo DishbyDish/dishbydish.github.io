@@ -1,6 +1,6 @@
 ---
-permalink: /Participate/
 title: "Participate"
+permalink: /participate/
 ---
 
 There are lots of ways you can get involved in Dish by Dish. 

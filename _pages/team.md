@@ -1,6 +1,6 @@
 ---
-permalink: /team/
 title: "Team"
+permalink: /team/
 ---
 
 Dish by Dish is a project of the [Citizen Researcher](https://citizenresearcher.hosting.nyu.edu/) group at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/). 
