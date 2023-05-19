@@ -16,9 +16,7 @@
 title: Dish by Dish
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Dish by Dish is a community project about food in the Arabian Gulf region. We are transcribing menus coming from the many cuisines found there. We’re transcribing restaurant menus–dish by dish–from local and regional restaurants using the FromThePage platform. It’s a big job so we need your help!
 twitter_username: dishbydishUAE
 github_username: dishbydish
 minimal_mistakes_skin: dark
