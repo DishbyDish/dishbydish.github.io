@@ -16,6 +16,5 @@ Team Members:
 Digital Volunteers: 
 
 * 
-*
 
 
