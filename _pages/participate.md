@@ -7,9 +7,9 @@ There are lots of ways you can get involved in Dish by Dish. Our project thrives
 
 If you would like to help us by contributing an image of a menu, you can go to this [post](https://dishbydish.github.io/blog/contributing-menus/) for suggestions. 
 
-To begin transcribing, open the project site in FromThePage [here](https://fromthepage.com/menus). 
+To jump right in transcribing, you can go to the transcription portal at FromThePage [here](https://fromthepage.com/menus). 
 
-> You can contribute in any language you feel comfortable in, but we especially need citizen researchers who are good at typing Arabic! 
+> You can contribute in any language you feel comfortable in, and even partially on pages for the languages you know. We especially need citizen researchers who are good at typing Arabic! 
 
 #### Sample video and written tutorials:
 
