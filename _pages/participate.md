@@ -3,9 +3,9 @@ title: "Participate"
 permalink: /participate/
 ---
 
-There are lots of ways you can get involved in Dish by Dish. 
+There are lots of ways you can get involved in Dish by Dish. Our project thrives with the help of digital volunteers. 
 
-If you would like to help us by contributing an image of a menu, you can go to this [post](https://dishbydish.github.io/blog/contributing-menus/ for suggestions. 
+If you would like to help us by contributing an image of a menu, you can go to this [post](https://dishbydish.github.io/blog/contributing-menus/) for suggestions. 
 
 To begin transcribing, open the project site in FromThePage [here](https://fromthepage.com/menus). 
 
