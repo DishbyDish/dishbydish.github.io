@@ -9,9 +9,9 @@ tags:
 
 In this post, we discuss how you can contribute images of menus to the Dish by Dish project. We welcome menus from the larger Arabian Gulf region in any language and for any cuisine. 
 
-All of the menus that you see in the Dish by Dish project come from scans or photos of menus, sourced from volunteers and project team members. As of the end of May 2023, we had a total of more than 1300 pages of menus ready for transcription. These are divided into two categories (1) English only and (2) English together with other languages. 
+All of the menus that you see in the Dish by Dish project come from scans or photos of menus, sourced from volunteers and project team members. As of the end of May 2023, we had a total of 200 menus amounting to more than 1300 pages ready for transcription. It has been estimated that there are about 134,000 establishments in the food and beverage sector in the GCC ([Marmore, 2021](https://www.marmoremena.com/en/reports/gcc-food-beverage-sector/)). We need your help to increase our number of menus!
 
-Here are some suggestions for contributing menus.  
+Here are some suggestions for contributing menus:  
 
 - If you find an interesting menu online, you can submit the link to us here. 
 
