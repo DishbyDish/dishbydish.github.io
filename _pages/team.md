@@ -12,6 +12,7 @@ Project Lead:
 Team Members: 
 
 * Aarushi Prasad (2021-22) - project set up, design, research
+* Aalia Imran (2023)
 
 Digital Volunteers: 
 

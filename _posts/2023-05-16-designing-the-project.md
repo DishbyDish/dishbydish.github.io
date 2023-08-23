@@ -29,9 +29,9 @@ There are three key differences with the "What's on the Menu" project. First, an
 
 Second, whereas the "What's on the Menu" project began in 2011 when there were not web-based, customizable crowdsourcing platform, we were quite lucky to begin in 2023. We have chosen to use the [FromThePage](https://fromthepage.com) platform, used by many archives and libraries for the crowd transcription of their digitized collections. Citizen researchers working on this project can make a free account and participate without any cost to them.  
 
-Third, we are in the midst of a moment of digital transformation of the restaurant industry with the rise of the numerous delivery services and [cloud kitchens](https://en.wikipedia.org/wiki/Virtual_restaurant) (also known as dark or ghost kitches). This also means that the menu as we know it is undergoing a transformation. In this new environment, we have chosen to formulate a statement on data ethics, about how we collect, process and represent the data, but also how we aim to return value to the food establishments of the country. More on this to come at our blog. 
+Third, we are in the midst of a moment of digital transformation of the restaurant industry with the rise of the numerous delivery services and [cloud kitchens](https://en.wikipedia.org/wiki/Virtual_restaurant) (also known as dark or ghost kitchens). This also means that the menu as we know it is undergoing a transformation. In this new environment, we have chosen to formulate a statement on data ethics, about how we collect, process and represent the data, but also how we aim to return value to the food establishments of the country. More on this to come at our blog. 
 
-## Design with Sustainability in Mind
+## Project Design with Sustainability in Mind
 
 For an institution that does not have lots of infrastructure for digital humanities projects, one of the main concerns was how we use the infrastructure we have, and how we disseminate information about the project in a sustainable way. 
 
