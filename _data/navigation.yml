@@ -3,9 +3,9 @@ main:
     url: /project/
   - title: "Participate"
     url: /participate/
-  - title: "Blog by Time"
-    url: /posts/
-  - title: "Blog by Tags"
+  - title: "Instructions"
+    url: /instructions/
+  - title: "Blog"
     url: /tag-archive/
   - title: "Team"
     url: /team/
