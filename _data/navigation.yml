@@ -6,6 +6,6 @@ main:
   - title: "Instructions"
     url: /instructions/
   - title: "Blog"
-    url: /tag-archive/
+    url: /posts/
   - title: "Team"
     url: /team/
